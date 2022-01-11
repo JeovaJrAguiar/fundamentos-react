@@ -13,7 +13,6 @@ export default function App()
 
             <Fragmento></Fragmento>
             
-
             <ComParametro 
                 titulo = 'Situação do Aluno'
                 aluno = 'Pedro ' 
